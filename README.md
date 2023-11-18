@@ -124,7 +124,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **FullStack Web Developer** \
 [**Shx Informática**](https://shx.com.br/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`,
+Competências: `Desenvolvimento Estratégico`, `Migração de sistema ERP em Java para web`, `Eficiência operacional`,
 <br/> `Análise e Integridade de dados`, `Componentização`, `Código limpo e reutilizável`
 
 ##
@@ -135,12 +135,12 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
 
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
+**Software Engineering** \
+[**Uninter - Centro Universitário Internacional**](https://www.uninter.com/) \
+Linguagens & Tecnologias - Front-end: `Angular`, `HTML`, `CSS`, `JavaScript`, `React.js`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `Java`, `Python`, `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucasfranchi/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
