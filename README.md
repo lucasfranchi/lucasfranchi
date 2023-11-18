@@ -142,7 +142,7 @@ Competências: `Desenvolvimento Estratégico`, `Migração de sistema ERP em Jav
 
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Centro_Universit%C3%A1rio_Internacional.jpg"/>](https://cubos.academy/)
 
 **Software Engineering** \
 [**Uninter - Centro Universitário Internacional**](https://www.uninter.com/) \
