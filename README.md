@@ -41,6 +41,9 @@
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
+<a href="https://about.gitlab.com/">
+  <img src="https://skillicons.dev/icons?i=gitlab"/>
+</a>
 <a href="https://npmjs.com">
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
@@ -62,6 +65,12 @@
 </a>
 <a href="https://aws.amazon.com/pt/">
   <img src="https://skillicons.dev/icons?i=aws"/>
+</a>
+<a href="https://aws.amazon.com/pt/">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/">
+  <img src="https://skillicons.dev/icons?i=dotnet"/>
 </a>
 </div>
 
