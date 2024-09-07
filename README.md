@@ -7,7 +7,7 @@
 - 🔰 Sou de Araraquara/SP, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Estudante de Engenharia de Software na Uninter
-- 🏦 Atualmente trabalho como Desenvolvedor Web na SHX Informática, uma Empresa com foco em um sistema ERP com Sede em Araraquara/SP e Campinas/SP
+- 🏦 Atualmente trabalho como Desenvolvedor na area de emissão de cartões em um time do PagBank!
 
 ##
 
