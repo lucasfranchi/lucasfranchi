@@ -131,9 +131,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.faqa4-1.fna.fbcdn.net/v/t39.30808-6/305270011_591355619180263_4772573816216907809_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_rFIFIZihOQAX_RMg8l&_nc_ht=scontent.faqa4-1.fna&oh=00_AfDkHMX50sE1iMKevt1k_2ZSVd4bO-bpJFLHg66p6MjTeQ&oe=655DD8B7"/>](https://shx.com.br/)
 
-**FullStack Web Developer** \
-[**Shx Informática**](https://shx.com.br/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Migração de sistema ERP em Java para web`, `Eficiência operacional`,
+**Mid Software Engineer** \
+[**CI&T**](https://ciandt.com/br/pt-br/home) • Full-time \
+Competências: `Microsserviços`, `Mensageria`, `Eficiência operacional`,
 <br/> `Análise e Integridade de dados`, `Componentização`, `Código limpo e reutilizável`
 
 ##
