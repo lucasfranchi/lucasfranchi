@@ -7,7 +7,7 @@
 - 🔰 Sou de Araraquara/SP, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Estudante de Engenharia de Software na Uninter
-- 🏦 Atualmente trabalho como Desenvolvedor na area de emissão de cartões em um time do PagBank!
+- 🏦 Atualmente trabalho como Engenheiro de Software pela CI&T!
 
 ##
 
