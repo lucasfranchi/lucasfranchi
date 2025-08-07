@@ -4,7 +4,7 @@
 
 ### O meu nome é Lucas Franchi, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰 Sou de Araraquara/SP, Brasil
+- 🔰 Sou de RIbeirão Preto/SP, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Estudante de Engenharia de Software na Uninter
 - 🏦 Atualmente trabalho como Engenheiro de Software pela CI&T!
